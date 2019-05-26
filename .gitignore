@@ -1,0 +1,8 @@
+*.class
+*.log
+*.zip
+*.jar
+*.rar
+*.tar.gz
+*.iml
+.idea
